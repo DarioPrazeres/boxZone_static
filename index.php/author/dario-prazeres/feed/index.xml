@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dario Prazeres &#8211; boxzone</title>
-	<atom:link href="/https://darioprazeres.github.io/boxZone_static/index.php/author/dario-prazeres/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://darioprazeres.github.io/boxZone_static</link>
+	<atom:link href="https://https://darioprazeres.github.io/boxZone/index.php/author/dario-prazeres/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://darioprazeres.github.io/boxZone</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 20 Nov 2021 08:40:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/https://darioprazeres.github.io/boxZone_static/wp-content/uploads/2021/11/cropped-cropped-FB_IMG_16374020612844159-32x32.jpg</url>
+	<url>https://https://darioprazeres.github.io/boxZone/wp-content/uploads/2021/11/cropped-cropped-FB_IMG_16374020612844159-32x32.jpg</url>
 	<title>Dario Prazeres &#8211; boxzone</title>
-	<link>/https://darioprazeres.github.io/boxZone_static</link>
+	<link>https://https://darioprazeres.github.io/boxZone</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/https://darioprazeres.github.io/boxZone_static/index.php/2021/11/20/hello-world/</link>
-					<comments>/https://darioprazeres.github.io/boxZone_static/index.php/2021/11/20/hello-world/#comments</comments>
+		<link>https://https://darioprazeres.github.io/boxZone/index.php/2021/11/20/hello-world/</link>
+					<comments>https://https://darioprazeres.github.io/boxZone/index.php/2021/11/20/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Dario Prazeres]]></dc:creator>
 		<pubDate>Sat, 20 Nov 2021 08:40:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://darioprazeres.github.io/boxZone_static/?p=1</guid>
+		<guid isPermaLink="false">https://https://darioprazeres.github.io/boxZone/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://darioprazeres.github.io/boxZone_static/index.php/2021/11/20/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://darioprazeres.github.io/boxZone/index.php/2021/11/20/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

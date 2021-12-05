@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for boxzone	</title>
-	<atom:link href="/https://darioprazeres.github.io/boxZone_static/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://darioprazeres.github.io/boxZone_static</link>
+	<atom:link href="https://https://darioprazeres.github.io/boxZone/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://darioprazeres.github.io/boxZone</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 20 Nov 2021 08:40:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://darioprazeres.github.io/boxZone_static/index.php/2021/11/20/hello-world/#comment-1</link>
+		<link>https://https://darioprazeres.github.io/boxZone/index.php/2021/11/20/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 20 Nov 2021 08:40:39 +0000</pubDate>
-		<guid isPermaLink="false">/https://darioprazeres.github.io/boxZone_static/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://https://darioprazeres.github.io/boxZone/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
