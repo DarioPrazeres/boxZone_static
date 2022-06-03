@@ -56,6 +56,7 @@
 ## How to Work
 
 <p>For you run this project in your pc you need to install:</p>
+
 - [WordPress](https://wordpress.com/) 
 - [Git](https://git.com/) 
 - [GitHub](https://github.com/) 
